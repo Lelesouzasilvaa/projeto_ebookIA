@@ -1,6 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
 
 
 <p align="center">
@@ -10,12 +7,7 @@
 -------
 
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+
 
 # Projeto EBOOK Gerado por I.A.s
 
@@ -57,7 +49,6 @@ ChatOn：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
@@ -71,7 +62,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/86673395?v=4"
     />
     <p>&nbsp&nbsp&nbspLeticia Silva<br>
     &nbsp&nbsp&nbsp
