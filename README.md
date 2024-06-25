@@ -78,9 +78,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/Lelesouzasilvaa">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/leticiasouzasilvaa/">LinkedIn</a>
-&nbsp;|&nbsp;
-  
-&nbsp;|&nbsp;</p>
+
+
 </p>
 <br/><br/>
 <p>
